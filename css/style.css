@@ -780,6 +780,7 @@ ul.social_team li a {
 #map {
      margin-top: 10px;
      height: 100%;
+     width:100%;
      min-height: 732px;
 }
 
